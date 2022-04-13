@@ -25,9 +25,11 @@ Home Automation Circuit Diagram:<br>
 ![new circuit](https://user-images.githubusercontent.com/91725049/163074072-03a35ccb-1194-49dc-a8e9-2529012b300c.jpeg)
 
 <br>
+Block Diagram:<br>
 
 ![blockdiagram](https://user-images.githubusercontent.com/91725049/163074068-b2b231f8-9d9b-4309-93cc-92d9082956f1.jpg)
 
 <br>
+Working:<br>
 
 ![working of home automation image](https://user-images.githubusercontent.com/91725049/163074080-3428db84-4631-442e-8198-f3a6449c8640.jpg)
