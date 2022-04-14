@@ -2,6 +2,7 @@
 Bluetooth(HC-05 Module)
 
 Components:
+<br>[![](https://visitcount.itsvg.in/api?id=Bluetooth&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <br>
 1) Arduino Uno<br>
 ![arduino uno](https://user-images.githubusercontent.com/91725049/163073296-73304f60-cdca-45a5-8092-c10be68120c2.jpg)
