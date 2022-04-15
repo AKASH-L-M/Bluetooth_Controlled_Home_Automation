@@ -6,6 +6,7 @@ Components:
 
 <br>
 1) Arduino Uno<br>
+
 ![arduino uno](https://user-images.githubusercontent.com/91725049/163583054-eb97414f-d512-4b1b-8064-c78a55656c6f.jpg)
 
 <br>
