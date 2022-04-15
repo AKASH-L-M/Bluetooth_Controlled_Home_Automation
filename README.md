@@ -6,7 +6,7 @@ Components:
 
 <br>
 1) Arduino Uno<br>
-![arduino uno](https://user-images.githubusercontent.com/91725049/163073296-73304f60-cdca-45a5-8092-c10be68120c2.jpg)
+![arduino uno](https://user-images.githubusercontent.com/91725049/163583054-eb97414f-d512-4b1b-8064-c78a55656c6f.jpg)
 
 <br>
 2) Realy Module(8-channel)
